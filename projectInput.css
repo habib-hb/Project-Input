@@ -1,0 +1,115 @@
+body{
+    background-color: black;
+    color:white;
+    margin: 0%;
+    padding: 0%;
+}
+#mainField{
+   
+    padding: 10px;
+    align-items: center;
+   border-style: dotted;
+   border-width: 1px;
+}
+
+#titleHead{
+    text-align: center;
+}
+
+#divA{
+    float: left;
+    text-align: right;
+}
+#inputName{
+    height:13px;
+    width: 200px;
+}
+#inputFathersName{
+    height:13px;
+    width: 200px;
+}
+#inputMothersName{
+    height:13px;
+    width: 200px;
+}
+#DoB{
+    text-align: left;
+}
+#inputNationality{
+    height:13px;
+}
+#divB{
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+    width:620px;
+    background-color: rgb(0, 0, 0);
+}
+#feesA{
+    color:yellow
+}
+#divC{
+    
+    background-color: rgb(0, 0, 0);
+   
+}
+#inputPaid{
+    width:70px;
+}
+#inputDue{
+    width:70px;
+}
+#inputAdv{
+    width:70px;
+}
+#divD{
+    float: left;
+    background-color: rgb(0, 0, 0);
+    margin-left: 15px;
+   text-align: right;
+}
+#divE{
+    clear: both;
+    text-align: center;
+}
+#submit{
+    width:300px;
+    background-color: rgb(245, 227, 188);
+}
+#submit:hover{
+    background-color: rgb(142, 228, 139);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
